@@ -35,7 +35,3 @@
 <p align="center">
   <img src="https://www.gitskins.com/api/section/social?username=stokonn&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93547567%3Fu%3Db77376eb767d06f7aa6e3bc8fad44a5e5aa56934%26v%3D4" alt="stokonn social visual" />
 </p>
-
-<a href="https://github.com/stokonn">GitHub</a>
-
-<p align="center"><sub>Ondra · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
