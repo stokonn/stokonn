@@ -14,7 +14,7 @@
 
 > Building useful things and learning in public.
 
-- 👥 **5** followers · **5** following
+- 👥 **5** followers · **6** following
 
 *Small, useful work over vague claims.*
 
